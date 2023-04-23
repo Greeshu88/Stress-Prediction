@@ -1,5 +1,5 @@
 # Stress-Prediction
-Stress prediction - CE888 Assignment
+Stress prediction - CE888 Assignment (Using Machine Learning Model)
 
 This is Data Science and Decision Making Assignment Submitted by the student.
 
