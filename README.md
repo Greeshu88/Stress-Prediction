@@ -3,7 +3,7 @@ Stress prediction - CE888 Assignment
 
 This is Data Science and Decision Making Assignment Submitted by the student.
 
-You can run the code using jupyter notebook or google colab(.ipynb) or (.py)
+You can run the code using jupyter notebook or google colab(.ipynb) or (.py). Give the correct folder path (Dataset) in the code to run the file.
 
 Access to the dataset : Raw data supporting the conclusions of this manuscript is made available by the corresponding author at https://github.com/italha-d/Stress-Predict-Dataset (accessed on 3 October 2022).
 
